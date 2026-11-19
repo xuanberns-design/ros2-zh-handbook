@@ -29,7 +29,7 @@
 | --- | --- | --- |
 | 01 | [环境安装：在 Ubuntu 24.04 上安装 ROS 2 Jazzy](./01-install-ros2-jazzy.md) | ✅ 已跑通 |
 | 02 | [turtlesim：用键盘控制小海龟](./02-turtlesim.md) | ✅ 已跑通 |
-| 03 | Topic（话题）通信 | 🚧 编写中 |
+| 03 | [Topic 通信：用命令和 Python 收发消息，让海龟自己转圈](./03-topic.md) | ✅ 已跑通 |
 | 04 | Service（服务）通信 | 📝 计划中 |
 | 05 | Parameter（参数） | 📝 计划中 |
 | 06 | Launch（启动文件） | 📝 计划中 |
